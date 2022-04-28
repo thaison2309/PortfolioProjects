@@ -1,5 +1,7 @@
-This is my fisrt project on the journey becoming a data analyst
-The project has two seperate query file for two different purpose:
- + The portfolioQuery is for analyzing data about COVID-19 and then displaying the result via tableau. 
-   Here is the link to the tableau: https://public.tableau.com/views/Covid-19Overview_16493427611440/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
- + The data cleaning project file is merely to demonstrate my skill with sql
+# Covid-19 Data Analysis Project
+
+## Introduction
+ - This project aims to analyze data about Covid-19 case and death toll to find out which country or region is the most damaged by the pandemic. The small project is also to demonstrate my skill in using SQL and Tableau in Data manipulating.
+ - This is the [link](https://covid.ourworldindata.org/data/owid-covid-data.xlsx) to the dataset used for analysis
+
+
